@@ -1,6 +1,6 @@
 ﻿{
-  "name": "com.application.core",
-  "version": "0.0.0",
+  "name": "com.custom.application.core",
+  "version": "0.0.1",
   "displayName": "Core Unity Package",
   "description": "Core mobile application",
   "unity": "2022.3.11",
