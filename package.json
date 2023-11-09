@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "displayName": "Core Unity Package",
   "description": "Core mobile application",
-  "unity": "2022.3.11",
+  "unity": "2019.1",
   "author": {
     "name": "Andrey Sachuk",
     "email": "a.sachuk@gmail.com",
