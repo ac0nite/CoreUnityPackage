@@ -1,0 +1,12 @@
+﻿{
+  "name": "com.custom.application.core",
+  "version": "0.0.1",
+  "displayName": "Core Unity Package",
+  "description": "Core mobile application",
+  "unity": "2022.3.11",
+  "author": {
+    "name": "Andrey Sachuk",
+    "email": "a.sachuk@gmail.com",
+    "url": "-"
+  }
+}
